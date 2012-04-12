@@ -7,10 +7,13 @@
 Goal: Learning statements, loops, and basic flow control
 
 1. Move cat across screen. Experiment with patterns and shapes
-2. Change the color of the cat every few steps
-3. Add a sound after so many steps
-4. Make the cat keep doing these steps 10 times, always, until clicked, only start when clicked
-5. 
+  * Move in a square, 20 units on each side, once. End up at same place
+  * Move in a triangle, 30 units on each side, once. End up at same place
+  * Change color of sprite at each transition to a side
+  * Change size of sprite at each transition to a side
+  * Make a sound when complete
+
+2. Move the cat across a "maze"
 
 Goal: Build Nyan Cat Animation
 
